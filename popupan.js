@@ -1,6 +1,6 @@
 
 	var url_popup = '
-	var url_popup = 'http://bit.ly/1JdPEQv';
+	var url_popup = 'https://goo.gl/Yjl09z';
 
       //<![CDATA[
 	  // var url_ppp = 'https://goo.gl/Yjl09z';
