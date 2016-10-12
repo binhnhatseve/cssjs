@@ -1,5 +1,4 @@
 
-	var url_popup = '
 	var url_popup = 'https://goo.gl/Yjl09z';
 
       //<![CDATA[
