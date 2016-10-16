@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/Yjl09z' target='_blank'><img src='https://2.bp.blogspot.com/-w07L_6j-5cQ/V9-Px3zw2eI/AAAAAAAAAb0/oo57gBjlEOEfGfym3Qy4T46uXLpgT0mBgCEw/s400/IMG_0589.JPG' width='500px'/><br/>máy xông hơi giá rẻ đây</a>.. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/Yjl09z' target='_blank'><img src='' width='500px'/><br/>máy xông hơi giá rẻ đây</a>.. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
